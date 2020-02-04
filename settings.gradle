@@ -1,0 +1,2 @@
+include ':app', ':myapplication', ':webview1', ':dialogex', ':dialogex2', ':pr7-3', ':ex4', ':ex5', ':ex6'
+rootProject.name='SpecialWidget'
